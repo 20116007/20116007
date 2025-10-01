@@ -7,7 +7,7 @@ Software Developer
 I am a Software Developer and who love C++. I have been learning to code from last three years.
 
 * 🌍  I'm based in Rajasthan,India
-* ✉️  You can contact me at [davichhoti174@gmail.com](mailto:davichhoti174@gmail.com)
+* ✉️  You can contact me at [amanverma040301@gmail.com](mailto:amanverma040301@gmail.com)
 * 🧠  I'm learning Data structure and algorithm
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Pokémon. Tell everyone
